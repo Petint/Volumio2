@@ -440,7 +440,7 @@
         "POPULAR_RADIOS": "Népszerű rádiók",
         "SHOUTCAST_ERROR": "Hiba történt a SHOUTCAST lekérdezése közben",
         "TALK_RADIOS": "Beszélgetős radiók",
-        "TOP_500_RADIOS": "Top 500 rádió",
+        "TOP_500_RADIOS": "500 legnépszerűbb",
         "WEBRADIO": "Webrádió"
     },
     "WIZARD": {
@@ -518,11 +518,11 @@
         "UNKNOWN_GENRE": "Ismeretlen Műfaj"
     },
     "PLUGIN_QOBUZ": {
-        "QOBUZ_FREE_TRIAL_DESC": "1 hónap ingyenes próbaverzió a QOBUZ HIFI-től (19,99 € értékben)",
-        "QOBUZ_FREE_TRIAL": "Ingyenes próbaverzió",
         "QOBUZ_CONFIG_TITLE": "QUBUZ Beállítások",
         "SECTION_QOBUZ_ACCOUNT": "QUBUZ",
         "QOBUZ_CONNECT_DESC": "Hozzáférés a QOBUZ zenéihez a Volumio-ban.",
-        "QOBUZ_LOGOUT_DESC": "Ez az eszköz csatlakozik a QOBUZ-hoz. A kijelentkezéshez kattintson a Kijelentkezés gombra."
+        "QOBUZ_LOGOUT_DESC": "Ez az eszköz csatlakozik a QOBUZ-hoz. A kijelentkezéshez kattintson a Kijelentkezés gombra.",
+        "QOBUZ_FREE_TRIAL": "Ingyenes próbaverzió",
+        "QOBUZ_FREE_TRIAL_DESC": "1 hónap ingyenes próbaverzió a QOBUZ HIFI-től (19,99 € értékben)"
     }
 }
